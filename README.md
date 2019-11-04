@@ -11,7 +11,7 @@
 Program generates barcode in Code39 format commonly used to manage backup media in tape backup systems. 
 
 ## Demo
-![](screenshot_images/BarcodeGeneratorDemo.gif)
+![](screenshot_images/BarCodeGeneratorDemo.gif)
 
 
 ## Technologies
